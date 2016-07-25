@@ -37,6 +37,15 @@
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=41952324249";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
@@ -64,14 +73,15 @@
 
 <div id="content" class='container-fluid'>
 <%= yield %>
+
+<br><br><br><br><br>
+<br><br><br><br><br>
 </div>
-<br>
-<br>
-<br>
+
 <footer>
 <div id="footer">
 <p class='text-center'>
-<a aria-label="Fork me on GitHub" data-style="mega" href="https://github.com/SlickRailsDevelopment/tslick" class="github-button">Fork me on Github</a><script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script><br>
+<a aria-label="Fork me on GitHub" data-style="mega" href="https://github.com/SlickRailsDevelopment/slickauthor" class="github-button">Fork me on Github</a><script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script><br>
 Developed by <a target="_blank" href="http://www.slickrails.com">SlickRails</a>
 </p>
 </div>

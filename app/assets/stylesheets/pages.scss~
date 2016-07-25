@@ -2,15 +2,24 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+html{
+	margin: 0;
+	padding: 0;
+	height:100%;
+}
+
 body {
 	padding: 0;
+	background-image: url(image-path('forest.jpg'));
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 body.home {
 	padding: 0;
 	background-image: url(image-path('forest.jpg'));
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-attachment: fixed;
 }
 
 body.home h3 {
@@ -48,14 +57,36 @@ body.home h3 {
 	line-height: 70px;
 }
 
+.blog h1 {
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+.blog p {
+	font-family: 'Averia Sans Libre', cursive;
+}
+
+.books h1 {
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+.books h3 {
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	font-weight: bold;
+}
+
+.books h4 {
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	font-weight: bold;
+}
+
 p {
 	font-family: 'Goudy Bookletter 1911', Georgia, Times, serif;
 	font-size: 15px;
 	line-height: 25px;
 }
 
-.thumbnail {
-	background-color: #bfbfbf;
+.books thumbnail {
+	background-color: #f2f2f2;
+	text-align: center;
 }
-
 
