@@ -10,6 +10,7 @@ body.home {
 	padding: 0;
 	background-image: url(image-path('forest.jpg'));
 	background-repeat: no-repeat;
+	background-size: 100%;
 }
 
 body.home h3 {
