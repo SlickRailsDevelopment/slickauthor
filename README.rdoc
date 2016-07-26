@@ -2,6 +2,6 @@
 
 README
 
-This is a landing page that can be used as a template.
+This is an author website that can be used as a template.
 
 * Ruby 2.2.4
