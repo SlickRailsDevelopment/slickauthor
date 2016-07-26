@@ -1,15 +1,11 @@
 <div class="blog text-center">
   <div class="row">
     <div class="col-sm-12 text-center">
-	<div class="jumbotron">
+	<div class="thumbnail">
 		<h1>About The Author</h1>
 		<%= image_tag('Tabi Slick2.jpg', class: 'img-circle', style: 'height: 200px; width: 150px')%>	
 <br>
-	<div class="col-sm-6 text-center">
-	<div class="thumbnail">
 	<p>Tabi Slick was born in Chanute, Kansas, and grew up in the country where she was homeschooled for the greater part of her childhood. In middle school, her family moved to Davis Oklahoma where she attended public school for several years. Here she began her writing adventure and soon the world of Tompkin's Academy came to life. After graduating from high school in 2008, she spent a few years in Puerto Rico and wound up in Texas where she graduated with a Bachelor's degree in Linguistics from the University of Texas at Arlington. She was born with an immense appreciation for literature and continues to dedicate her time to her passion of writing.</p>
-	</div>
-	</div>
 	</div>
     </div>
   </div>
