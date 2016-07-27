@@ -48,13 +48,12 @@
 <br><br><br>
 
 <div class="container text-center">
-<h3>Check out the OFFICIAL Facebook Page</h3>
+<div class="thumbnail">
+<center><h3>Check out the OFFICIAL Facebook Page</h3></center>
 <p>for updates, interesting facts on the world of Tompkin's School, and more!</p>
+</div>
 <div class="fb-like" data-href="https://www.facebook.com/tompkinsschooltrilogy" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
-<br><br>
-	
-	  <div class=thumnail">
-<div class="fb-page" data-href="https://www.facebook.com/TompkinsSchoolTrilogy/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/TompkinsSchoolTrilogy/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TompkinsSchoolTrilogy/">Tompkin&#039;s School</a></blockquote></div>
+
 	  </div>
 </div>
     </div>
