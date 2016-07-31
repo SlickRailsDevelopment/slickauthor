@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :blogs
   resources :pages
 
   get '/home' => 'pages#home'
@@ -7,6 +8,9 @@ Rails.application.routes.draw do
   get '/blog' => 'pages#blog'
   get '/tompkinsschool' => 'pages#tompkinsschool'
   get '/success' => 'pages#success'
+
+  get '/20160724' => 'blogs#20160724'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
