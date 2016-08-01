@@ -1,3 +1,12 @@
+/* line 6, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/blogs.scss */
+.post h4 {
+  text-align: left;
+}
+
+/* line 9, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/blogs.scss */
+.post p {
+  text-align: center;
+}
 /* line 5, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
 html {
   margin: 0;
