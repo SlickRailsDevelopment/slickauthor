@@ -20,13 +20,20 @@
       <div class="col-sm-6">
         <div class="thumbnail">
 	<%= image_tag('BookCover1.jpg', style: 'height: 100; width: 200px') %>
+<div id="gr_add_to_books">
+    <div class="gr_custom_each_container_">
+      <a target="_blank" style="border:none" href="https://www.goodreads.com/book/isbn/1530998336"><img alt="Tompkin&#39;s School: For the Extraordinarily Talented" src="https://www.goodreads.com/images/atmb_add_book-70x25.png" /></a>
+    </div>
+  </div>
+
+
           <h4>Book 1: For The Extraordinarily Talented</h4>
 <br>
           <p>Izara Torvik thought her life was over the moment that her father sent her and her twin brother to a boarding school in the middle of nowhere Oklahoma. She soon discovers that the school is not as ordinary as she thought and finds herself thrown into a battle against her inner demons that only have one desire...the desire to kill.</p>
 <br>
-	<p>The eBook is available on <a href="https://www.amazon.com/Tompkins-School-Extraordinarily-Talented-Trilogy-ebook/dp/B01EJZKAX8">Amazon</a></p>
+	<strong><p>The eBook is available here on <a href="https://www.amazon.com/Tompkins-School-Extraordinarily-Talented-Trilogy-ebook/dp/B01EJZKAX8">Amazon</a></p></strong>
 <strong><h4>Or buy the paperback here and save 15%!<h4></strong>
-
+<br>
 <p><center>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -48,6 +55,7 @@
       <div class="col-sm-6">
         <div class="thumbnail">
           <%= image_tag('BookCover2.jpg', style: 'height: 100; width: 200px') %>
+<br><br><br><br><br><br>
           <h4>Book 2 Cover Coming Soon!</h4>
 <br>
           <p>The story of the Torvik twins continues in this thrilling adventure between the nature of being good and evil. Visions of the past, powers that blast, and a school that has been waiting for them for a century, Tompkin's School: For The Dearly Departed will bring you one step closer to solving the mystery of who they are, why they have these powers, and the school's most haunting secret.
