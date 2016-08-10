@@ -8,8 +8,8 @@
     </div>
 
 
-<div class="col-sm-8 text-center">
-	<div class="jumbotron">
+<div class="col-sm-12 text-center">
+	<div class="thumbnail">
 <%= image_tag('jasonbourne.jpg', style: 'height: 500; width: 500px') %>
 <br>
 <div class="thumbnail">
