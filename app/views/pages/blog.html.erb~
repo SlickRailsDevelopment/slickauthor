@@ -8,6 +8,8 @@
     </div>
 
 
+<div class="col-sm-8 text-center">
+	<div class="jumbotron">
 <%= image_tag('jasonbourne.jpg', style: 'height: 500; width: 500px') %>
 <br>
 <div class="thumbnail">
@@ -25,7 +27,7 @@
 <%= image_tag('juryday.jpg', style: 'height: 500; width: 500px') %>
 <br>
 <div class="thumbnail">
-<a href="http://www.tabislick.com/20170726">Read more</a>
+<a href="http://www.tabislick.com/20160726">Read more</a>
 </div>
 
 <br>
@@ -34,7 +36,9 @@
 <%= image_tag('lostgirl.jpg', style: 'height: 500; width: 500px') %>
 <br>
 <div class="thumbnail">
-<a href="http://www.tabislick.com/20170724">Read more</a>
+<a href="http://www.tabislick.com/20160724">Read more</a>
+</div>
+  </div>
 </div>
 
 	</div>

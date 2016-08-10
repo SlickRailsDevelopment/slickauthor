@@ -57,6 +57,13 @@ body.home h3 {
 	line-height: 70px;
 }
 
+.blog {
+	display: inline-block;
+	margin: 0;
+	text-align: center;
+
+}
+
 .blog h1 {
 	font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
@@ -85,7 +92,7 @@ p {
 	line-height: 25px;
 }
 
-.books thumbnail {
+.thumbnail {
 	background-color: #f2f2f2;
 	text-align: center;
 }
