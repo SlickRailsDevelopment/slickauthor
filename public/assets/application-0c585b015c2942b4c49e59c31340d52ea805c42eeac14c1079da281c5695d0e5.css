@@ -8,8 +8,14 @@
   text-align: center;
 }
 
-/* line 13, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/blogs.scss */
-.img-fluid {
+/* line 14, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/blogs.scss */
+#image1 {
+  background: url("path");
+  background-size: cover;
+}
+
+/* line 19, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/blogs.scss */
+.thumbnail {
   max-width: 100%;
   height: auto;
 }

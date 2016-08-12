@@ -14,7 +14,7 @@
 <%= image_tag('bookreviewsystem.png', style: 'height: 500; width: 500px') %>
 <br>
 <div class="thumbnail">
-<a href="20160730">Read more</a>
+<a href="20160812">Read more</a>
 </div>
 
 <br>
