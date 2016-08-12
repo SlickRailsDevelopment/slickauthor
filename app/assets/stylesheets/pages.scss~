@@ -57,13 +57,6 @@ body.home h3 {
 	line-height: 70px;
 }
 
-.blog {
-	display: inline-block;
-	margin: 0;
-	text-align: center;
-
-}
-
 .blog h1 {
 	font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }

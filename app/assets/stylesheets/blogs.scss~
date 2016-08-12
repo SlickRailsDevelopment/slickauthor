@@ -10,7 +10,8 @@
 	text-align: center;
 }
 
-.style-image {
-	float:right;
-    	display:block;
+.img-fluid {
+	max-width: 100%;
+	height: auto;
 }
+
