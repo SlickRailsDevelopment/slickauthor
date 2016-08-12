@@ -13,7 +13,7 @@
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://docs.google.com/document/d/1M3qEIUETOePq8fbOviEiDcu9Qwtn7LQBIiFljVB7bOw/pub?embedded=true"></iframe>
 </div>
-
+<br>
 <div class="image-fluid">
 	<%= image_tag('system.png')%>
 <br><br><br>

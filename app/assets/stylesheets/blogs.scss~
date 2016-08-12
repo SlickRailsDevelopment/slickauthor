@@ -10,8 +10,13 @@
 	text-align: center;
 }
 
-.img-fluid {
-	max-width: 100%;
-	height: auto;
+
+#image1{
+  background: url("path");
+  background-size:cover;
 }
 
+.thumbnail{
+   width:250px;
+   height:250px;
+}

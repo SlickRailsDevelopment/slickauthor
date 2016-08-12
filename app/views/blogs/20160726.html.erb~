@@ -11,7 +11,7 @@
 	<div class="thumbnail">
 
 <div class="image-fluid">
-	<%= image_tag('lostgirlblog.jpg', style: 'width: 900px')%>
+	<%= image_tag('courtblog.jpg', style: 'width: 900px')%>
 </div>
 
 <h4>Read on <a href="https://www.facebook.com/notes/tabi-slick/the-slick-writing-corner-jury-day-its-the-best-day/1852179288343738">Facebook</a></h4>
