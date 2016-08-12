@@ -14,8 +14,12 @@
 <iframe src="https://docs.google.com/document/d/1M3qEIUETOePq8fbOviEiDcu9Qwtn7LQBIiFljVB7bOw/pub?embedded=true"></iframe>
 </div>
 <br>
-<div class="image-fluid">
+
+<div class="thumbnail img-responsive">
+  <div class="cell" id="image1"></div>
 	<%= image_tag('system.png')%>
+	</div>
+  </div>
 <br><br><br>
 </div>
 	</div>
