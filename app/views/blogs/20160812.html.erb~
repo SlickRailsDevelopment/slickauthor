@@ -1,0 +1,28 @@
+<div class="blog text-center">
+  <div class="row">
+    <div class="col-sm-12 text-center">
+	<div class="thumbnail">
+<h1>Blogs, ramblings, and other things</h1>
+<p>The Slick Writing Corner.</p>
+	</div>
+    </div>
+
+<div class="col-sm-12">
+	<div class="thumbnail">
+
+<div class="thumbnail img-responsive">
+  <div class="cell" id="image1"></div>
+	<%= image_tag('bookreviewblog.jpg', class: 'image-responsive', style: 'width: 900px')%>
+ 
+<h4>Read on <a href="https://www.facebook.com/notes/tabi-slick/the-slick-writing-corner-my-book-review-rating-system/1860026080892392">Facebook</a></h4>
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://docs.google.com/document/d/1uGiKmxpCFeejZQ_9yIcqLNk9s8sEZ2jZ9k7K3Ln2raU/pub?embedded=true"></iframe>
+    </div>
+  </div>
+</div>
+</div>
+	</div>
+  </div>
+</div>
+<br><br><br>

@@ -16,6 +16,7 @@ Rails.application.routes.draw do
   get '/thealchemystbookreview' => 'blogs#thealchemyst'
   get '/shivaxivbookreview' => 'blogs#shivaxiv'
   get '/graveyardrosebookreview' => 'blogs#graveyardrose'
+  get '/20160812' => 'blogs#20160812'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
