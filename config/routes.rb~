@@ -15,7 +15,7 @@ Rails.application.routes.draw do
   get '/20160730' => 'blogs#20160730'
   get '/thealchemystbookreview' => 'blogs#thealchemyst'
   get '/shivaxivbookreview' => 'blogs#shivaxiv'
-  get '/graveyardrosebookreview' => 'blogs#graveyardrose'
+  get '/20160814' => 'blogs#graveyardrose'
   get '/20160812' => 'blogs#20160812'
 
   # The priority is based upon order of creation: first created -> highest priority.

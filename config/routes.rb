@@ -13,7 +13,7 @@ Rails.application.routes.draw do
   get '/20160724' => 'blogs#20160724'
   get '/20160726' => 'blogs#20160726'
   get '/20160730' => 'blogs#20160730'
-  get '/thealchemystbookreview' => 'blogs#thealchemyst'
+  get '/20160827' => 'blogs#thealchemyst'
   get '/shivaxivbookreview' => 'blogs#shivaxiv'
   get '/20160814' => 'blogs#graveyardrose'
   get '/20160812' => 'blogs#20160812'
