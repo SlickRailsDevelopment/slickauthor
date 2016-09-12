@@ -11,18 +11,18 @@
 
 <div class="thumbnail img-responsive">
   <div class="cell" id="image1"></div>
-	<%= image_tag('shivablog.jpg', style: 'width: 900px')%>
+	<%= image_tag('shivaxiv.jpg', style: 'width: 900px')%>
 
 <h4>Read on <a href="">Facebook</a></h4>
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://docs.google.com/document/d/11jhlaeZIN1O7MdUoY5RsrEJS9ZSHdNoKjUjDNAPvGM8/pub?embedded=true"></iframe>
 </div>
-	</div>
-	</div>
 <br>
 <p>See the <a href="reviewpolicy">Review Policy</a> for any questions.</p>
 </div>
+	</div>
+	</div>
 	</div>
   </div>
 <br><br><br>
