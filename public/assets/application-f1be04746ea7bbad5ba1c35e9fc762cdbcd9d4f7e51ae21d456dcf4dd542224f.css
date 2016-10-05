@@ -88,43 +88,44 @@ body.home h3 {
 .img-fluid {
   max-width: 100%;
   height: auto;
+  display: block;
 }
 
-/* line 65, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+/* line 66, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
 .blog h1 {
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
-/* line 69, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+/* line 70, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
 .blog p {
   font-family: 'Averia Sans Libre', cursive;
 }
 
-/* line 73, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+/* line 74, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
 .books h1 {
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
-/* line 77, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+/* line 78, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
 .books h3 {
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
-/* line 82, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+/* line 83, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
 .books h4 {
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
-/* line 87, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+/* line 88, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
 p {
   font-family: 'Goudy Bookletter 1911', Georgia, Times, serif;
   font-size: 15px;
   line-height: 25px;
 }
 
-/* line 93, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+/* line 94, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
 .thumbnail {
   background-color: #f2f2f2;
   text-align: center;

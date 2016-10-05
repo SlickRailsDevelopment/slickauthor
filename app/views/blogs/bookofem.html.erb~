@@ -1,0 +1,30 @@
+<div class="blog text-center">
+  <div class="row">
+    <div class="col-sm-12 text-center">
+	<div class="thumbnail">
+<h1>Blogs, ramblings, and other things</h1>
+<p>The Slick Writing Corner.</p>
+	</div>
+    </div>
+<div class="col-sm-12">
+	<div class="thumbnail">
+
+<div class="thumbnail img-responsive">
+  <div class="cell" id="image1"></div>
+	<%= image_tag('alchemystblog.jpg', style: 'width: 900px')%>
+
+<h4>Read on <a href="">Facebook</a></h4>
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://docs.google.com/document/d/1C2ZZZIq4cQjUdTVxKIjMpCWxZ_oHaAPvB0zTyyuJ69Y/pub?embedded=true"></iframe>
+</div>
+
+<br>
+<p>See the <a href="reviewpolicy">Review Policy</a> for any questions.</p>
+</div>
+	</div>
+	</div>
+	</div>
+  </div>
+<br><br><br>
+</div>
