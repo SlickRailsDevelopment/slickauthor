@@ -95,22 +95,7 @@ p {
 	text-align: center;
 }
 
-.hs-responsive-embed-youtube {
-
-position: relative;
-
-padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
-
-padding-top: 25px;
-
-}
-
-.hs-responsive-embed-youtube iframe {
-
-position: absolute;
-
-width: 100%!important;
-
-height: 100%!important;
-
-} 
+    #videothumbnail{
+    height: 50%;
+    width: 50%;
+    float: center;}
