@@ -11,7 +11,7 @@
 
 <div class="thumbnail img-responsive">
   <div class="cell" id="image1"></div>
-	<%= image_tag('alchemystblog.jpg', style: 'width: 900px')%>
+	<%= image_tag('bookofem.png', style: 'width: 900px')%>
 
 <h4>Read on <a href="">Facebook</a></h4>
 
