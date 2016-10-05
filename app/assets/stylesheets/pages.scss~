@@ -95,7 +95,3 @@ p {
 	text-align: center;
 }
 
-    #videothumbnail{
-    height: 50%;
-    width: 50%;
-    float: center;}
