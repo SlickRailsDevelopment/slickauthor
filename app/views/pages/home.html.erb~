@@ -4,9 +4,16 @@
   <h1>The Slick Writing Corner</h1>
   <p>Home of author Tabi Slick</p>
 <br>
+
+<div class="row">
+      <div class='col-sm-2'></div>
+      <div class='col-sm-8'>
   <div class="embed-responsive embed-responsive-4by3">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oW7bdfrtfho?autoplay=1" frameborder="0" allowfullscreen></iframe>
   </div>
+      </div>
+      <div class='col-sm-2'></div>
+</div>
 </div>
 
 <div class="container">
