@@ -1,0 +1,148 @@
+/* line 6, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/blogs.scss */
+.post h4 {
+  text-align: left;
+}
+
+/* line 9, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/blogs.scss */
+.post p {
+  text-align: center;
+}
+
+/* line 14, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/blogs.scss */
+#image1 {
+  background: url("path");
+  background-size: cover;
+}
+
+/* line 19, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/blogs.scss */
+.thumbnail {
+  max-width: 100%;
+  height: auto;
+}
+/* line 5, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* line 11, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+body {
+  padding: 0;
+  background-image: url("/assets/forest-0c2741e63e558ffaed8137b0e59e62a9df63ff13c51efd989ce80a17032fa00f.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* line 18, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+body.home {
+  padding: 0;
+  background-image: url("/assets/forest-0c2741e63e558ffaed8137b0e59e62a9df63ff13c51efd989ce80a17032fa00f.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* line 25, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+body.home h3 {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+/* line 29, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+/* line 34, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+.row.content {
+  height: 450px;
+}
+
+@media screen and (max-width: 767px) {
+  /* line 39, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+  .sidenav {
+    height: auto;
+    padding: 15px;
+  }
+
+  /* line 43, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+  .row.content {
+    height: auto;
+  }
+}
+/* line 46, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+.jumbotron h1 {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-size: 50px;
+  line-height: 70px;
+}
+
+/* line 54, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+.jumbotron p {
+  font-family: 'Averia Sans Libre', cursive;
+  font-size: 50px;
+  line-height: 70px;
+}
+
+/* line 60, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* line 66, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+.blog h1 {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+/* line 70, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+.blog p {
+  font-family: 'Averia Sans Libre', cursive;
+}
+
+/* line 74, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+.books h1 {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+/* line 78, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+.books h3 {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
+/* line 83, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+.books h4 {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
+/* line 88, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+p {
+  font-family: 'Goudy Bookletter 1911', Georgia, Times, serif;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+/* line 94, /home/slick/slickdevelopment/slickauthor/app/assets/stylesheets/pages.scss */
+.thumbnail {
+  background-color: #f2f2f2;
+  text-align: center;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
