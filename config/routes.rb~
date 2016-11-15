@@ -9,6 +9,7 @@ Rails.application.routes.draw do
   get '/reviewpolicy' => 'pages#reviewpolicy'
   get '/tompkinsschool' => 'pages#tompkinsschool'
   get '/success' => 'pages#success'
+  get '/interviewrequest' => 'pages#interviewrequest'
 
   get '/20160724' => 'blogs#20160724'
   get '/20160726' => 'blogs#20160726'
