@@ -10,6 +10,7 @@ Rails.application.routes.draw do
   get '/tompkinsschool' => 'pages#tompkinsschool'
   get '/success' => 'pages#success'
   get '/interviewrequest' => 'pages#interviewrequest'
+  get '/cybermonday2016' => 'pages#CyberMonday2016'
 
   get '/20160724' => 'blogs#20160724'
   get '/20160726' => 'blogs#20160726'
@@ -20,6 +21,8 @@ Rails.application.routes.draw do
   get '/20160812' => 'blogs#20160812'
   get '/20161005' => 'blogs#bookofem'
   get '/20161115' => 'blogs#tomsinheritance'
+
+
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
